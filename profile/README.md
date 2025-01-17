@@ -4,7 +4,7 @@
 
 # Controlle Innovation Ltda
 
-😁 The **Controlle Innovation ** is a company that develops IoT technologies for **industrial** and **environment** monitoring.<br>
+😁 **Controlle Innovation Ltda** is a company that develops IoT technologies for **industrial** and **environmental** monitoring.<br>
 🏫 It is part of [Controlle Group](https://www.linkedin.com/company/controlle) in the city of Lages, state of Santa Catarina, in southern Brazil.<br><br>
 
 ## Use of repositories
@@ -18,7 +18,7 @@ The repositories below are our **HW (*Hardware*)** solutions:
 ### Public Repositories
 
 ### Private Repositories
-- [RUC-100 HW](https://github.com/controlle-innovation/ruc100_hw) - RUC-100 is a multifunction remote unit.
+- [RUC-100 (hardware)](https://github.com/controlle-innovation/ruc100_hw) - RUC-100 is a multifunction remote unit.
 
 ## Embedded Systems
 
@@ -27,7 +27,7 @@ The repositories below are our **Embedded Systems** solutions:
 ### Public Repositories
 
 ### Private Repositories
-- [RUC-100 FW](https://github.com/controlle-innovation/ruc100_fw) - RUC-100 is a multifunction remote unit.
+- [RUC-100 (firmware)](https://github.com/controlle-innovation/ruc100_fw) - RUC-100 is a multifunction remote unit.
 
 
 ## Mobile Applications
