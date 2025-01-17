@@ -18,7 +18,8 @@ The repositories below are our **HW (*Hardware*)** solutions:
 ### Public Repositories
 
 ### Private Repositories
-- [RUC-100 (hardware)](https://github.com/controlle-innovation/ruc100_hw) - RUC-100 is a multifunction remote unit.
+- [RUC-100 (hardware)](https://github.com/controlle-innovation/ruc100_hw) - RUC-100 is a multifunctional remote unit.
+
 
 ## Embedded Systems
 
@@ -27,7 +28,7 @@ The repositories below are our **Embedded Systems** solutions:
 ### Public Repositories
 
 ### Private Repositories
-- [RUC-100 (firmware)](https://github.com/controlle-innovation/ruc100_fw) - RUC-100 is a multifunction remote unit.
+- [RUC-100 (firmware)](https://github.com/controlle-innovation/ruc100_fw) - RUC-100 is a multifunctional remote unit.
 
 
 ## Mobile Applications
@@ -37,5 +38,14 @@ The repositories below are our **App (*Mobile Applications*)** solutions:
 ### Public Repositories
   
 ### Private Repositories
+- [Controlle Cloud App](https://github.com/controlle-innovation/controlle_cloud_app) - A mobile application to grant access to Controlle Cloud systems.
 
-- [Controlle Cloud App](https://github.com/AgroTechLab-IFSC/controlle_cloud_app) - A mobile application to grant access to Controlle Cloud systems.
+
+## Tools
+
+The repositories below are our **Tools**:
+
+### Public Repositories
+- [KiCad library](https://github.com/controlle-innovation/kicad_lib) - KiCad library.
+
+### Private Repositories
