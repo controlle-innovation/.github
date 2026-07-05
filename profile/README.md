@@ -1,6 +1,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,flutter,bsd,debian,ubuntu,vscode,androidstudio,latex,git,github&theme=dark)](https://skillicons.dev)<br>
 ![GitHub followers](https://img.shields.io/github/followers/controlle-innovation)
 ![GitHub Org's stars](https://img.shields.io/github/stars/controlle-innovation)
+![Static Badge](https://img.shields.io/badge/license-Copyright-blue)
 
 # Controlle Innovation Ltda
 
@@ -10,3 +11,8 @@
 ## Use of public repositories
 
 Some of our repositories are **public** and allow the developer community to participate (through a **Pull Request**). These public repositories can be used (including for **commercial purposes**) by people, companies and institutions, as long as they accept the license associated with it.
+
+<br><hr>
+<div align="center">
+  <p>© 2023 <b><a href="https://www.linkedin.com/company/controlle/">Controlle Innovation Ltda</a></b>. All rights reserved.</p>
+</div>
