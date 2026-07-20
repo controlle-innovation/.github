@@ -1,7 +1,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,flutter,bsd,debian,ubuntu,vscode,androidstudio,latex,git,github&theme=dark)](https://skillicons.dev)<br>
 ![GitHub followers](https://img.shields.io/github/followers/controlle-innovation)
 ![GitHub Org's stars](https://img.shields.io/github/stars/controlle-innovation)
-![Static Badge](https://img.shields.io/badge/license-Copyright-blue)
+![Static Badge](https://img.shields.io/badge/license-copyright-blue)
 
 # Controlle Innovation Ltda
 
